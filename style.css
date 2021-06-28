@@ -1,0 +1,22 @@
+
+.flex-container {
+    display: flex;
+    
+  }
+  
+  .flex-container img { width: 400px;}
+
+  .flex-container > div {
+    
+    padding: 20px;
+    font-size: 20px;}
+    
+    .m-container > div {
+    
+        padding: 20px;
+        font-size: 20px;}
+        .x-container {
+            display: flex;
+            
+          }
+          .x-container img {width: 400px;}
